@@ -1,3 +1,15 @@
-* {
-    background-color: #282c34;
+body {
+    background-color: rgb(10, 135, 170);
+}
+
+.container {
+    padding: 50px;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
 }
